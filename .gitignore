@@ -1,0 +1,15 @@
+# Data are distributed as release assets, not stored in Git history.
+datasets/*.zip
+release_assets/
+experiments/care/data/
+experiments/normal_roles/data/compact_roles/
+# Downloaded author code retains its upstream terms and is fetched separately.
+experiments/care/code/upstream/
+# Generated outputs and local environments
+outputs/
+**/reproduced/
+**/__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db
