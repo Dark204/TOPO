@@ -1,0 +1,12 @@
+{
+  "retentions": [1.0, 0.5, 0.25],
+  "partial_seeds": [17, 29, 43],
+  "unit": "complete normal span and its inbound/outbound role relations",
+  "sample_count": "floor(retention * available units)",
+  "window_minutes": 10,
+  "systems": {"OnlineBoutique": 90, "TrainTicket": 90},
+  "metric_tie_rule": "uniform expectation within score ties",
+  "workers": 2,
+  "evidence_epsilon": 1e-10,
+  "tie_tolerance": 1e-12
+}

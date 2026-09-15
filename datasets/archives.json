@@ -1,0 +1,22 @@
+[
+  {
+    "archive": "TORAI_Main_270.zip",
+    "bytes": 91262227,
+    "sha256": "040dbae0d8740399371945837e34590ca7f8626e63aa23bbc287d165b8ff7c76"
+  },
+  {
+    "archive": "RE2_OB_Raw_90.zip",
+    "bytes": 1191025569,
+    "sha256": "0605a36cdcad8a6ae0107f2357c9c91ecee2c4ab5d72579bffea0372d9747513"
+  },
+  {
+    "archive": "RE3_OB_Generalization_30.zip",
+    "bytes": 190838064,
+    "sha256": "4885c87665ee4f1c80734b0e8f0411f91f6dae5751b7506ee90a29f12d952ee7"
+  },
+  {
+    "archive": "RE2_TT_Raw_90.zip",
+    "bytes": 1624428196,
+    "sha256": "a79683541342199c61fa4db59ada016a809804fb6b29caf13edfd7591ae41bb7"
+  }
+]

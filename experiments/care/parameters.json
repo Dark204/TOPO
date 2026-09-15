@@ -1,0 +1,25 @@
+{
+  "author_commit": "7f17d5b4e077489acf7ad6f91b3bdd02a16a8f7d",
+  "author_files_sha256": {
+    "CARE/AnomalyDetection_alphacomputation.py": "f1d5c556850932a62e9afc7c7228c7c799ae42031f748f543f5b4a9e901c4de2",
+    "CARE/run_selecting_features.py": "03069faa3eeee9fbda3457b40d2be2976edcbc558054eb67492b8a56ba6c0b63",
+    "CARE/weightedSpectrumAnalysis.py": "c36ce405f80555b459fdab884c4316bf404990bf2459e193b1b6faa31b268f64",
+    "trainticket_config.py": "fb21affce061f6e562c5d3a85cfe6862792187b0519e098acfa8dad64d3e5756"
+  },
+  "feature_selection_threshold": 0.1,
+  "anomaly_threshold": 1.0,
+  "anomaly_cache": "empty, matching author process_file",
+  "window_seconds": {
+    "normal": [
+      -300,
+      0
+    ],
+    "incident": [
+      0,
+      300
+    ]
+  },
+  "candidate_score_completion": "zero for a benchmark candidate absent from the author graph",
+  "tie_tolerance": 1e-12,
+  "workers": 2
+}

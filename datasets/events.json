@@ -1,0 +1,4442 @@
+[
+  {
+    "system": "SockShop",
+    "case_id": "carts_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_cpu/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_cpu/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_cpu/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_delay/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_delay/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_delay/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_disk/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_disk/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_disk/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_loss/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_loss/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_loss/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_mem/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_mem/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_mem/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_socket/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_socket/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "carts_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/carts_socket/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_cpu/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_cpu/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_cpu/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_delay/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_delay/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_delay/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_disk/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_disk/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_disk/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_loss/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_loss/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_loss/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_mem/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_mem/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_mem/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_socket/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_socket/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "catalogue_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/catalogue_socket/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_cpu/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_cpu/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_cpu/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_cpu/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_cpu/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_cpu/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_delay/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_delay/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_delay/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_delay/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_delay/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_delay/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_disk/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_disk/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_disk/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_disk/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_disk/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_disk/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_loss/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_loss/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_loss/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_loss/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_loss/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_loss/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_mem/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_mem/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_mem/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_mem/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_mem/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_mem/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_socket/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_socket/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_socket/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_socket/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/checkoutservice_socket/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/checkoutservice_socket/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_cpu/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_cpu/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_cpu/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_cpu/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_cpu/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_cpu/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_delay/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_delay/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_delay/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_delay/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_delay/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_delay/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_disk/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_disk/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_disk/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_disk/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_disk/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_disk/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_loss/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_loss/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_loss/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_loss/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_loss/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_loss/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_mem/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_mem/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_mem/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_mem/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_mem/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_mem/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_socket/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_socket/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_socket/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_socket/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/currencyservice_socket/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/currencyservice_socket/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_cpu/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_cpu/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_cpu/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_cpu/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_cpu/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_cpu/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_delay/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_delay/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_delay/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_delay/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_delay/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_delay/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_disk/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_disk/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_disk/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_disk/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_disk/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_disk/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_loss/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_loss/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_loss/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_loss/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_loss/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_loss/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_mem/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_mem/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_mem/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_mem/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_mem/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_mem/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_socket/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_socket/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_socket/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_socket/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/emailservice_socket/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/emailservice_socket/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_cpu/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_cpu/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_cpu/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_delay/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_delay/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_delay/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_disk/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_disk/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_disk/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_loss/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_loss/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_loss/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_mem/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_mem/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_mem/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_socket/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_socket/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "orders_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/orders_socket/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_cpu/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_cpu/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_cpu/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_delay/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_delay/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_delay/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_disk/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_disk/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_disk/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_loss/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_loss/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_loss/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_mem/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_mem/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_mem/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_socket/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_socket/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "payment_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/payment_socket/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_cpu/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_cpu/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_cpu/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_cpu/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_cpu/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_cpu/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_delay/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_delay/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_delay/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_delay/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_delay/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_delay/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_disk/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_disk/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_disk/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_disk/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_disk/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_disk/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_loss/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_loss/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_loss/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_loss/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_loss/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_loss/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_mem/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_mem/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_mem/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_mem/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_mem/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_mem/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_socket/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_socket/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_socket/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_socket/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/productcatalogservice_socket/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/productcatalogservice_socket/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_cpu/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_cpu/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_cpu/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_cpu/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_cpu/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_cpu/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_delay/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_delay/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_delay/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_delay/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_delay/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_delay/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_disk/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_disk/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_disk/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_disk/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_disk/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_disk/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_loss/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_loss/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_loss/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_loss/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_loss/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_loss/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_mem/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_mem/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_mem/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_mem/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_mem/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_mem/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_socket/1/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_socket/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_socket/2/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_socket/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-OB/recommendationservice_socket/3/",
+    "raw_input": "RE2_OB_Raw_90.zip::RE2-OB/recommendationservice_socket/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_cpu/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_cpu/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_cpu/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_cpu/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_cpu/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_cpu/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_delay/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_delay/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_delay/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_delay/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_delay/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_delay/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_disk/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_disk/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_disk/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_disk/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_disk/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_disk/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_loss/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_loss/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_loss/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_loss/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_loss/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_loss/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_mem/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_mem/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_mem/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_mem/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_mem/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_mem/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_socket/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_socket/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_socket/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_socket/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-auth-service_socket/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-auth-service_socket/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_cpu/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_cpu/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_cpu/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_cpu/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_cpu/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_cpu/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_delay/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_delay/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_delay/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_delay/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_delay/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_delay/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_disk/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_disk/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_disk/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_disk/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_disk/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_disk/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_loss/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_loss/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_loss/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_loss/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_loss/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_loss/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_mem/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_mem/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_mem/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_mem/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_mem/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_mem/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_socket/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_socket/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_socket/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_socket/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-order-service_socket/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-order-service_socket/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_cpu/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_cpu/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_cpu/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_cpu/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_cpu/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_cpu/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_delay/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_delay/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_delay/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_delay/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_delay/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_delay/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_disk/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_disk/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_disk/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_disk/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_disk/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_disk/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_loss/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_loss/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_loss/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_loss/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_loss/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_loss/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_mem/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_mem/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_mem/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_mem/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_mem/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_mem/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_socket/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_socket/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_socket/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_socket/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-route-service_socket/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-route-service_socket/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_cpu/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_cpu/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_cpu/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_cpu/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_cpu/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_cpu/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_delay/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_delay/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_delay/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_delay/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_delay/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_delay/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_disk/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_disk/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_disk/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_disk/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_disk/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_disk/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_loss/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_loss/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_loss/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_loss/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_loss/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_loss/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_mem/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_mem/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_mem/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_mem/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_mem/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_mem/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_socket/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_socket/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_socket/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_socket/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-train-service_socket/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-train-service_socket/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_cpu/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_cpu/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_cpu/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_cpu/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_cpu/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_cpu/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_delay/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_delay/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_delay/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_delay/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_delay/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_delay/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_disk/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_disk/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_disk/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_disk/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_disk/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_disk/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_loss/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_loss/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_loss/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_loss/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_loss/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_loss/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_mem/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_mem/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_mem/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_mem/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_mem/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_mem/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_socket/1/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_socket/1/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_socket/2/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_socket/2/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-TT/ts-travel-service_socket/3/",
+    "raw_input": "RE2_TT_Raw_90.zip::RE2-TT/ts-travel-service_socket/3/",
+    "care_applicable": true,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch",
+      "normal_role_robustness",
+      "CARE"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_cpu/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_cpu/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_cpu/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_cpu/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_cpu/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_cpu/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_delay/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_delay/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_delay/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_delay/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_delay/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_delay/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_disk/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_disk/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_disk/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_disk/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_disk/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_disk/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_loss/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_loss/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_loss/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_loss/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_loss/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_loss/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_mem/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_mem/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_mem/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_mem/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_mem/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_mem/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_socket/1",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_socket/1/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_socket/2",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_socket/2/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "SockShop",
+    "case_id": "user_socket/3",
+    "panel": "main_270",
+    "processed_input": "TORAI_Main_270.zip::torai-SS/user_socket/3/",
+    "raw_input": null,
+    "care_applicable": false,
+    "uses": [
+      "main",
+      "five_and_ten_minute_windows",
+      "ablation",
+      "coverage_mismatch"
+    ]
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_000",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/adservice_f3/1/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_001",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/adservice_f3/2/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_002",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/adservice_f3/3/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_003",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/adservice_f4/1/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_004",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/adservice_f4/2/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_005",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/adservice_f4/3/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_006",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/adservice_f5/1/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_007",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/adservice_f5/2/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_008",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/adservice_f5/3/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_009",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/cartservice_f1/1/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_010",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/cartservice_f1/2/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_011",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/cartservice_f1/3/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_012",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/currencyservice_f1/1/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_013",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/currencyservice_f1/2/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_014",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/currencyservice_f1/3/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_015",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f1/1/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_016",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f1/2/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_017",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f1/3/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_018",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f2/1/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_019",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f2/2/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_020",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f2/3/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_021",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f3/1/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_022",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f3/2/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_023",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f3/3/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_024",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f4/1/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_025",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f4/2/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_026",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f4/3/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_027",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f5/1/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_028",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f5/2/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "case_id": "case_029",
+    "panel": "generalization_30",
+    "raw_input": "RE3_OB_Generalization_30.zip::RE3-OB/emailservice_f5/3/",
+    "uses": [
+      "generalization"
+    ],
+    "care_applicable": false
+  }
+]

@@ -1,0 +1,1262 @@
+[
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_cpu/1",
+    "file": "data/compact_roles/515165894eb8aaca582e.json.gz",
+    "observations": 79808,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_cpu/2",
+    "file": "data/compact_roles/9a6a0a3d588e61d2f2f4.json.gz",
+    "observations": 65273,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_cpu/3",
+    "file": "data/compact_roles/79d04c59bb39be80888c.json.gz",
+    "observations": 84081,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_delay/1",
+    "file": "data/compact_roles/7a21fe647aa5cac2fda6.json.gz",
+    "observations": 84579,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_delay/2",
+    "file": "data/compact_roles/b238adfc609e821ceeb4.json.gz",
+    "observations": 81884,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_delay/3",
+    "file": "data/compact_roles/da66987de8b882aa7a55.json.gz",
+    "observations": 84101,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_disk/1",
+    "file": "data/compact_roles/bae5a1dc62524ce59c03.json.gz",
+    "observations": 81297,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_disk/2",
+    "file": "data/compact_roles/37b9d2b9ee81580507c0.json.gz",
+    "observations": 84870,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_disk/3",
+    "file": "data/compact_roles/3fd02c667dcab5d96d4b.json.gz",
+    "observations": 85934,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_loss/1",
+    "file": "data/compact_roles/fc48cfae4fea59427422.json.gz",
+    "observations": 79618,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_loss/2",
+    "file": "data/compact_roles/126ad30dc57496666ad5.json.gz",
+    "observations": 81056,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_loss/3",
+    "file": "data/compact_roles/c07bd41a5ebba0366652.json.gz",
+    "observations": 81861,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_mem/1",
+    "file": "data/compact_roles/61566edf7665332e4446.json.gz",
+    "observations": 83476,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_mem/2",
+    "file": "data/compact_roles/2bb3c72294f08d9a7d45.json.gz",
+    "observations": 81776,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_mem/3",
+    "file": "data/compact_roles/148d7a4e33f17e641d8d.json.gz",
+    "observations": 83741,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_socket/1",
+    "file": "data/compact_roles/f2bf53bfa365cb42d39e.json.gz",
+    "observations": 84291,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_socket/2",
+    "file": "data/compact_roles/022aa7f1eaf740edd584.json.gz",
+    "observations": 84086,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "checkoutservice_socket/3",
+    "file": "data/compact_roles/19d8b8b3ce86aed1fe4e.json.gz",
+    "observations": 83193,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_cpu/1",
+    "file": "data/compact_roles/3161e09a7ad65412a993.json.gz",
+    "observations": 84986,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_cpu/2",
+    "file": "data/compact_roles/44c737bf07e2700af239.json.gz",
+    "observations": 82434,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_cpu/3",
+    "file": "data/compact_roles/61feff3789820ead0c65.json.gz",
+    "observations": 85562,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_delay/1",
+    "file": "data/compact_roles/237d8ec03d666f78ab7d.json.gz",
+    "observations": 83054,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_delay/2",
+    "file": "data/compact_roles/d43d38d44b21e1705048.json.gz",
+    "observations": 87287,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_delay/3",
+    "file": "data/compact_roles/74fb3c7ed7ebde8ddcbf.json.gz",
+    "observations": 83344,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_disk/1",
+    "file": "data/compact_roles/45d8a8922bbd77b87377.json.gz",
+    "observations": 80563,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_disk/2",
+    "file": "data/compact_roles/b92bf18f5bee5c4629b9.json.gz",
+    "observations": 82344,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_disk/3",
+    "file": "data/compact_roles/11a4f306bc88d343d566.json.gz",
+    "observations": 82297,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_loss/1",
+    "file": "data/compact_roles/80b06db9c3dea92b6d9f.json.gz",
+    "observations": 77855,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_loss/2",
+    "file": "data/compact_roles/8f5c3cabb26a821a3b18.json.gz",
+    "observations": 84711,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_loss/3",
+    "file": "data/compact_roles/75fc663110edc018ae0c.json.gz",
+    "observations": 81138,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_mem/1",
+    "file": "data/compact_roles/860c562edf8dd403430d.json.gz",
+    "observations": 83850,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_mem/2",
+    "file": "data/compact_roles/2ee588195d52a14ef995.json.gz",
+    "observations": 80029,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_mem/3",
+    "file": "data/compact_roles/90630a54ae7fc344163d.json.gz",
+    "observations": 83528,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_socket/1",
+    "file": "data/compact_roles/b9e0cb79a87423d43705.json.gz",
+    "observations": 81146,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_socket/2",
+    "file": "data/compact_roles/9f58957a29e4b265f125.json.gz",
+    "observations": 83011,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "currencyservice_socket/3",
+    "file": "data/compact_roles/d504909fad4ac4df2b43.json.gz",
+    "observations": 85697,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_cpu/1",
+    "file": "data/compact_roles/e930462b429dece6596e.json.gz",
+    "observations": 82428,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_cpu/2",
+    "file": "data/compact_roles/6eb2c3ba9221acfbe038.json.gz",
+    "observations": 84098,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_cpu/3",
+    "file": "data/compact_roles/4c7f87ea524b99e75933.json.gz",
+    "observations": 84378,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_delay/1",
+    "file": "data/compact_roles/903bd1a597334e866f57.json.gz",
+    "observations": 82347,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_delay/2",
+    "file": "data/compact_roles/5449cd0d7dd4b192e1f9.json.gz",
+    "observations": 81378,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_delay/3",
+    "file": "data/compact_roles/27c263b78ccb2213c92c.json.gz",
+    "observations": 80987,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_disk/1",
+    "file": "data/compact_roles/0fb57c851a3516a66773.json.gz",
+    "observations": 79265,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_disk/2",
+    "file": "data/compact_roles/f627a6bd78668b3f4704.json.gz",
+    "observations": 80997,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_disk/3",
+    "file": "data/compact_roles/88cf4b1fc433f9b8bd57.json.gz",
+    "observations": 83050,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_loss/1",
+    "file": "data/compact_roles/2f3313b4ee222a54e822.json.gz",
+    "observations": 78964,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_loss/2",
+    "file": "data/compact_roles/516d999bf82b1d157217.json.gz",
+    "observations": 84048,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_loss/3",
+    "file": "data/compact_roles/a3e1f57a8fa62a63ce23.json.gz",
+    "observations": 83833,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_mem/1",
+    "file": "data/compact_roles/5cfbacad37c057ff401e.json.gz",
+    "observations": 85145,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_mem/2",
+    "file": "data/compact_roles/84c1f561c7620445bde2.json.gz",
+    "observations": 81244,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_mem/3",
+    "file": "data/compact_roles/f87ebf99e79a70e9e899.json.gz",
+    "observations": 79957,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_socket/1",
+    "file": "data/compact_roles/3d41ebacb9ba6edaffeb.json.gz",
+    "observations": 83886,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_socket/2",
+    "file": "data/compact_roles/4da9b4359eec62e3a81b.json.gz",
+    "observations": 83942,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "emailservice_socket/3",
+    "file": "data/compact_roles/f9b7b901f9f3c5ac5342.json.gz",
+    "observations": 81630,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_cpu/1",
+    "file": "data/compact_roles/94f239d5f246d7c8eb06.json.gz",
+    "observations": 80596,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_cpu/2",
+    "file": "data/compact_roles/eca9bfa4992b47a181a9.json.gz",
+    "observations": 80166,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_cpu/3",
+    "file": "data/compact_roles/3eef8581d0db0a745429.json.gz",
+    "observations": 82777,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_delay/1",
+    "file": "data/compact_roles/775372b8f6d83ff7eb8c.json.gz",
+    "observations": 85629,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_delay/2",
+    "file": "data/compact_roles/e96a124219c609a0a8a5.json.gz",
+    "observations": 82400,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_delay/3",
+    "file": "data/compact_roles/9e414a8399c3ff05eb81.json.gz",
+    "observations": 83969,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_disk/1",
+    "file": "data/compact_roles/ce0f2d225cf5185b9344.json.gz",
+    "observations": 77761,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_disk/2",
+    "file": "data/compact_roles/54c84601a0ce439dbb26.json.gz",
+    "observations": 86377,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_disk/3",
+    "file": "data/compact_roles/e03f76a794847dd4d41d.json.gz",
+    "observations": 81722,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_loss/1",
+    "file": "data/compact_roles/ebab9f81b6c0e58207fd.json.gz",
+    "observations": 80279,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_loss/2",
+    "file": "data/compact_roles/015f13aa05e374b3e753.json.gz",
+    "observations": 82092,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_loss/3",
+    "file": "data/compact_roles/83aa4578e9355b6cbc61.json.gz",
+    "observations": 83016,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_mem/1",
+    "file": "data/compact_roles/21c5e787e9176c55deb2.json.gz",
+    "observations": 79633,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_mem/2",
+    "file": "data/compact_roles/da07083b1979d722471c.json.gz",
+    "observations": 49707,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_mem/3",
+    "file": "data/compact_roles/afd0a6be2df72d5d4ec9.json.gz",
+    "observations": 84547,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_socket/1",
+    "file": "data/compact_roles/55d0c3c4cf4ed6f07268.json.gz",
+    "observations": 82482,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_socket/2",
+    "file": "data/compact_roles/82bff60ace273cb1069c.json.gz",
+    "observations": 79805,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "productcatalogservice_socket/3",
+    "file": "data/compact_roles/31a6234624032c8ac901.json.gz",
+    "observations": 83283,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_cpu/1",
+    "file": "data/compact_roles/890018f52b96029f0405.json.gz",
+    "observations": 80498,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_cpu/2",
+    "file": "data/compact_roles/d41ec1e8f40f8fd0f852.json.gz",
+    "observations": 80560,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_cpu/3",
+    "file": "data/compact_roles/7b6dc8f9c9e96ce3b7fc.json.gz",
+    "observations": 86994,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_delay/1",
+    "file": "data/compact_roles/115a3e853233c1216975.json.gz",
+    "observations": 81347,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_delay/2",
+    "file": "data/compact_roles/4315ce2a0bac09428dcc.json.gz",
+    "observations": 84182,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_delay/3",
+    "file": "data/compact_roles/6c4e6643af66c640d4e5.json.gz",
+    "observations": 79416,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_disk/1",
+    "file": "data/compact_roles/a0ed01dbba194f65472c.json.gz",
+    "observations": 79940,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_disk/2",
+    "file": "data/compact_roles/146425e500cd5d8852aa.json.gz",
+    "observations": 82533,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_disk/3",
+    "file": "data/compact_roles/4c4dd582d04074602c3d.json.gz",
+    "observations": 84623,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_loss/1",
+    "file": "data/compact_roles/6dcc514b08d9c8c75976.json.gz",
+    "observations": 78138,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_loss/2",
+    "file": "data/compact_roles/bdf28a0a9b2dd958b52d.json.gz",
+    "observations": 83268,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_loss/3",
+    "file": "data/compact_roles/c0acce02bef15c45657f.json.gz",
+    "observations": 80810,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_mem/1",
+    "file": "data/compact_roles/15f887f563e833c3e185.json.gz",
+    "observations": 82143,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_mem/2",
+    "file": "data/compact_roles/1b4004ec2b93609ebf4d.json.gz",
+    "observations": 81770,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_mem/3",
+    "file": "data/compact_roles/bdd99cb6846c092dac08.json.gz",
+    "observations": 87219,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_socket/1",
+    "file": "data/compact_roles/a2d9fb74bcdaa73d1dfe.json.gz",
+    "observations": 79194,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_socket/2",
+    "file": "data/compact_roles/45430da5c1c715c2c3b6.json.gz",
+    "observations": 82227,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "OnlineBoutique",
+    "case_id": "recommendationservice_socket/3",
+    "file": "data/compact_roles/4bc30cfa02c31d229709.json.gz",
+    "observations": 82225,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_cpu/1",
+    "file": "data/compact_roles/9c26bf38368f2b856571.json.gz",
+    "observations": 236307,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_cpu/2",
+    "file": "data/compact_roles/d0fe1adff2d3ab82b0c9.json.gz",
+    "observations": 165408,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_cpu/3",
+    "file": "data/compact_roles/fe2d891df6809c13c229.json.gz",
+    "observations": 186703,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_delay/1",
+    "file": "data/compact_roles/4c5d7e382e4b4791b387.json.gz",
+    "observations": 234696,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_delay/2",
+    "file": "data/compact_roles/7b622e5cf78bb812d73f.json.gz",
+    "observations": 134889,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_delay/3",
+    "file": "data/compact_roles/544f729e72043b5e63e4.json.gz",
+    "observations": 139766,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_disk/1",
+    "file": "data/compact_roles/7606f7693d8a9d2a916f.json.gz",
+    "observations": 137474,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_disk/2",
+    "file": "data/compact_roles/6bb601db0b154eb50ae5.json.gz",
+    "observations": 131090,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_disk/3",
+    "file": "data/compact_roles/b827e03b3dc6ad2190fd.json.gz",
+    "observations": 161478,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_loss/1",
+    "file": "data/compact_roles/c68fd3ae2c0d4b484a0b.json.gz",
+    "observations": 191789,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_loss/2",
+    "file": "data/compact_roles/fa3192cee97adb372d84.json.gz",
+    "observations": 150676,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_loss/3",
+    "file": "data/compact_roles/2e6f78fcc8f99e3f4578.json.gz",
+    "observations": 117493,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_mem/1",
+    "file": "data/compact_roles/845f3b5cc78eb91af5b0.json.gz",
+    "observations": 233428,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_mem/2",
+    "file": "data/compact_roles/45004150e42802c83655.json.gz",
+    "observations": 216958,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_mem/3",
+    "file": "data/compact_roles/085984baeddbe9a9bd54.json.gz",
+    "observations": 129414,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_socket/1",
+    "file": "data/compact_roles/83721f7248ee4cdeaef7.json.gz",
+    "observations": 173444,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_socket/2",
+    "file": "data/compact_roles/98e1a48e06db89e7d0fb.json.gz",
+    "observations": 150585,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-auth-service_socket/3",
+    "file": "data/compact_roles/1508ab6b5cff1e09e1de.json.gz",
+    "observations": 204444,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_cpu/1",
+    "file": "data/compact_roles/94b4a5c94f11f45f1f99.json.gz",
+    "observations": 127490,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_cpu/2",
+    "file": "data/compact_roles/7aaccd1fcf138e9b4096.json.gz",
+    "observations": 170580,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_cpu/3",
+    "file": "data/compact_roles/c314f5ba86459d6f36c6.json.gz",
+    "observations": 187656,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_delay/1",
+    "file": "data/compact_roles/1a6900c28ef816d19e08.json.gz",
+    "observations": 139295,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_delay/2",
+    "file": "data/compact_roles/56b6b04e733582ae6336.json.gz",
+    "observations": 24897,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_delay/3",
+    "file": "data/compact_roles/69434deae7024fc1c161.json.gz",
+    "observations": 26229,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_disk/1",
+    "file": "data/compact_roles/7a0304214477a5047312.json.gz",
+    "observations": 217228,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_disk/2",
+    "file": "data/compact_roles/d8393aa3e34624a642c9.json.gz",
+    "observations": 25579,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_disk/3",
+    "file": "data/compact_roles/dfa6b0df96c16189b06b.json.gz",
+    "observations": 25744,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_loss/1",
+    "file": "data/compact_roles/0419b6f49739b7b51730.json.gz",
+    "observations": 258829,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_loss/2",
+    "file": "data/compact_roles/aa605fcd058ec61da652.json.gz",
+    "observations": 25509,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_loss/3",
+    "file": "data/compact_roles/2b0459a3e8f6802e36d0.json.gz",
+    "observations": 26207,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_mem/1",
+    "file": "data/compact_roles/d9bf7ccbebe76a45bdc9.json.gz",
+    "observations": 125281,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_mem/2",
+    "file": "data/compact_roles/4ee736b1511c7ac9e724.json.gz",
+    "observations": 131817,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_mem/3",
+    "file": "data/compact_roles/e9172def27230ebb3b84.json.gz",
+    "observations": 145544,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_socket/1",
+    "file": "data/compact_roles/7142d8f445cb9504a3a3.json.gz",
+    "observations": 222298,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_socket/2",
+    "file": "data/compact_roles/2ecc2373d67318d0d7a0.json.gz",
+    "observations": 25055,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-order-service_socket/3",
+    "file": "data/compact_roles/37fe200f01d501ff76d3.json.gz",
+    "observations": 208897,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_cpu/1",
+    "file": "data/compact_roles/e7be64c2b5f0a6060514.json.gz",
+    "observations": 160808,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_cpu/2",
+    "file": "data/compact_roles/cfdedd672e8d44050c52.json.gz",
+    "observations": 26484,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_cpu/3",
+    "file": "data/compact_roles/8820030b8bc54d104e94.json.gz",
+    "observations": 25506,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_delay/1",
+    "file": "data/compact_roles/5b1330fde5ed642065cc.json.gz",
+    "observations": 180345,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_delay/2",
+    "file": "data/compact_roles/939392a301b5eb774a60.json.gz",
+    "observations": 178471,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_delay/3",
+    "file": "data/compact_roles/08573659dc520bcd2d59.json.gz",
+    "observations": 218968,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_disk/1",
+    "file": "data/compact_roles/c94c130b0353f7804311.json.gz",
+    "observations": 256614,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_disk/2",
+    "file": "data/compact_roles/e54b0780973c22ff417e.json.gz",
+    "observations": 80271,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_disk/3",
+    "file": "data/compact_roles/0324e4c4a4bfbf98f1d8.json.gz",
+    "observations": 111356,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_loss/1",
+    "file": "data/compact_roles/77d766a7ccdc78771c87.json.gz",
+    "observations": 344112,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_loss/2",
+    "file": "data/compact_roles/d417d73340a66c8d99a7.json.gz",
+    "observations": 187801,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_loss/3",
+    "file": "data/compact_roles/7ceb81b7be0a8fb70e69.json.gz",
+    "observations": 125342,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_mem/1",
+    "file": "data/compact_roles/b9989252c0e633fb8768.json.gz",
+    "observations": 148763,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_mem/2",
+    "file": "data/compact_roles/7b164e167ce0c0c6f274.json.gz",
+    "observations": 133166,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_mem/3",
+    "file": "data/compact_roles/4ca8aa9df75c43ec6c95.json.gz",
+    "observations": 147282,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_socket/1",
+    "file": "data/compact_roles/90ec321d0d5552ba9bfd.json.gz",
+    "observations": 331018,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_socket/2",
+    "file": "data/compact_roles/0e4d87c46270e6cb4c54.json.gz",
+    "observations": 128558,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-route-service_socket/3",
+    "file": "data/compact_roles/4c32282de6be9dd9927f.json.gz",
+    "observations": 161605,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_cpu/1",
+    "file": "data/compact_roles/a4793da7d3b579edd161.json.gz",
+    "observations": 215762,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_cpu/2",
+    "file": "data/compact_roles/cbd8d345647ae542d2db.json.gz",
+    "observations": 154000,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_cpu/3",
+    "file": "data/compact_roles/245a80cd97ad36d97c3a.json.gz",
+    "observations": 183704,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_delay/1",
+    "file": "data/compact_roles/de4d225dbbccf2d251c0.json.gz",
+    "observations": 242989,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_delay/2",
+    "file": "data/compact_roles/cdc6e25f4db4e70b863e.json.gz",
+    "observations": 152978,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_delay/3",
+    "file": "data/compact_roles/773a876553cc6b5b2084.json.gz",
+    "observations": 182841,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_disk/1",
+    "file": "data/compact_roles/47f0547c4f2b82c06ad2.json.gz",
+    "observations": 151623,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_disk/2",
+    "file": "data/compact_roles/f4004f71821f7d55f163.json.gz",
+    "observations": 183173,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_disk/3",
+    "file": "data/compact_roles/acfab61dfd0e95f2c2ce.json.gz",
+    "observations": 209894,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_loss/1",
+    "file": "data/compact_roles/88723d7738569a30c7cf.json.gz",
+    "observations": 212692,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_loss/2",
+    "file": "data/compact_roles/37e221d288026d0de73e.json.gz",
+    "observations": 213925,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_loss/3",
+    "file": "data/compact_roles/f9fc95f57cc5b4523b6c.json.gz",
+    "observations": 209456,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_mem/1",
+    "file": "data/compact_roles/4bdf9a567575948d7e09.json.gz",
+    "observations": 136875,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_mem/2",
+    "file": "data/compact_roles/c30d66c06f3ee0f02bc2.json.gz",
+    "observations": 125545,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_mem/3",
+    "file": "data/compact_roles/3bbf9b8fd804f2df7ec4.json.gz",
+    "observations": 153192,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_socket/1",
+    "file": "data/compact_roles/f56a81f6d649f3381e68.json.gz",
+    "observations": 0,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_socket/2",
+    "file": "data/compact_roles/0ab1cf65d9818cade5a0.json.gz",
+    "observations": 236876,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-train-service_socket/3",
+    "file": "data/compact_roles/c504b79cb8667cda9cf2.json.gz",
+    "observations": 137491,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_cpu/1",
+    "file": "data/compact_roles/ce6ea5bcb97f4ea4acac.json.gz",
+    "observations": 145105,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_cpu/2",
+    "file": "data/compact_roles/208c028f77fdab859545.json.gz",
+    "observations": 155316,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_cpu/3",
+    "file": "data/compact_roles/a7a4b20ddb98e8027f0e.json.gz",
+    "observations": 155122,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_delay/1",
+    "file": "data/compact_roles/98f2bc059cf0766f132e.json.gz",
+    "observations": 219259,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_delay/2",
+    "file": "data/compact_roles/65b42e9fd40c460e07b2.json.gz",
+    "observations": 191530,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_delay/3",
+    "file": "data/compact_roles/3de7d384de00bad6aa40.json.gz",
+    "observations": 203101,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_disk/1",
+    "file": "data/compact_roles/f26a6ee21d3e77987577.json.gz",
+    "observations": 188359,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_disk/2",
+    "file": "data/compact_roles/4c72a54fd3eedd6849b3.json.gz",
+    "observations": 33657,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_disk/3",
+    "file": "data/compact_roles/e96884edd7ccaa0e3550.json.gz",
+    "observations": 32607,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_loss/1",
+    "file": "data/compact_roles/f80f0f1711172e57b44e.json.gz",
+    "observations": 179196,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_loss/2",
+    "file": "data/compact_roles/c959c19011f5640c1d60.json.gz",
+    "observations": 266139,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_loss/3",
+    "file": "data/compact_roles/0c6abc6600036edd7efa.json.gz",
+    "observations": 209420,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_mem/1",
+    "file": "data/compact_roles/5b2628b935b090fe7319.json.gz",
+    "observations": 176544,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_mem/2",
+    "file": "data/compact_roles/4fbf8b69a5bedb6f9558.json.gz",
+    "observations": 173560,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_mem/3",
+    "file": "data/compact_roles/bc86c9a8d70955e3fd41.json.gz",
+    "observations": 121145,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_socket/1",
+    "file": "data/compact_roles/387a1282e770ee7c6326.json.gz",
+    "observations": 33665,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_socket/2",
+    "file": "data/compact_roles/c95147ee65403cce391b.json.gz",
+    "observations": 135240,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  },
+  {
+    "system": "TrainTicket",
+    "case_id": "ts-travel-service_socket/3",
+    "file": "data/compact_roles/9729d11d60cafe7edef3.json.gz",
+    "observations": 162232,
+    "encoding": "complete inbound/outbound relations in canonical original span order"
+  }
+]

@@ -1,0 +1,3422 @@
+[
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_cpu/1",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_cpu/2",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_cpu/3",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_delay/1",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_delay/2",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_delay/3",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_disk/1",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_disk/2",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_disk/3",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_loss/1",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_loss/2",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_loss/3",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_mem/1",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_mem/2",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_mem/3",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_socket/1",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_socket/2",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "checkoutservice_socket/3",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_cpu/1",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_cpu/2",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_cpu/3",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_delay/1",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_delay/2",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_delay/3",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_disk/1",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_disk/2",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_disk/3",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_loss/1",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_loss/2",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_loss/3",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_mem/1",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_mem/2",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_mem/3",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_socket/1",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_socket/2",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "currencyservice_socket/3",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_cpu/1",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_cpu/2",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_cpu/3",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_delay/1",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_delay/2",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_delay/3",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_disk/1",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_disk/2",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_disk/3",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_loss/1",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_loss/2",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_loss/3",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_mem/1",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_mem/2",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_mem/3",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_socket/1",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_socket/2",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "emailservice_socket/3",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_cpu/1",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_cpu/2",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_cpu/3",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_delay/1",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_delay/2",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_delay/3",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_disk/1",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_disk/2",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_disk/3",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_loss/1",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_loss/2",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_loss/3",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_mem/1",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_mem/2",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_mem/3",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_socket/1",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_socket/2",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "productcatalogservice_socket/3",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_cpu/1",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_cpu/2",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_cpu/3",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_delay/1",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_delay/2",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_delay/3",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_disk/1",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_disk/2",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_disk/3",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_loss/1",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_loss/2",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_loss/3",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_mem/1",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_mem/2",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_mem/3",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_socket/1",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_socket/2",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "10",
+    "case_id": "recommendationservice_socket/3",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_cpu/1",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_cpu/2",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_cpu/3",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_delay/1",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_delay/2",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_delay/3",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_disk/1",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_disk/2",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_disk/3",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_loss/1",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_loss/2",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_loss/3",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_mem/1",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_mem/2",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_mem/3",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_socket/1",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_socket/2",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "checkoutservice_socket/3",
+    "root_service": "checkoutservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_cpu/1",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_cpu/2",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_cpu/3",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_delay/1",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_delay/2",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_delay/3",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_disk/1",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_disk/2",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_disk/3",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_loss/1",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_loss/2",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_loss/3",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_mem/1",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_mem/2",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_mem/3",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_socket/1",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_socket/2",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "currencyservice_socket/3",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_cpu/1",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_cpu/2",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_cpu/3",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_delay/1",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_delay/2",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_delay/3",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_disk/1",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_disk/2",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_disk/3",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_loss/1",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_loss/2",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_loss/3",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_mem/1",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_mem/2",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_mem/3",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_socket/1",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_socket/2",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "emailservice_socket/3",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_cpu/1",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_cpu/2",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_cpu/3",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_delay/1",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_delay/2",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_delay/3",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_disk/1",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_disk/2",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_disk/3",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_loss/1",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_loss/2",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_loss/3",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_mem/1",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_mem/2",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_mem/3",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_socket/1",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_socket/2",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "productcatalogservice_socket/3",
+    "root_service": "productcatalogservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_cpu/1",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_cpu/2",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_cpu/3",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_delay/1",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_delay/2",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_delay/3",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_disk/1",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_disk/2",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_disk/3",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_loss/1",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_loss/2",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_loss/3",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_mem/1",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_mem/2",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_mem/3",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_socket/1",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_socket/2",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "OnlineBoutique",
+    "window_minutes": "5",
+    "case_id": "recommendationservice_socket/3",
+    "root_service": "recommendationservice"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_cpu/1",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_cpu/2",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_cpu/3",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_delay/1",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_delay/2",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_delay/3",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_disk/1",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_disk/2",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_disk/3",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_loss/1",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_loss/2",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_loss/3",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_mem/1",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_mem/2",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_mem/3",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_socket/1",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_socket/2",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "carts_socket/3",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_cpu/1",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_cpu/2",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_cpu/3",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_delay/1",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_delay/2",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_delay/3",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_disk/1",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_disk/2",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_disk/3",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_loss/1",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_loss/2",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_loss/3",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_mem/1",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_mem/2",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_mem/3",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_socket/1",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_socket/2",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "catalogue_socket/3",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_cpu/1",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_cpu/2",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_cpu/3",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_delay/1",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_delay/2",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_delay/3",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_disk/1",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_disk/2",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_disk/3",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_loss/1",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_loss/2",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_loss/3",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_mem/1",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_mem/2",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_mem/3",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_socket/1",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_socket/2",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "orders_socket/3",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_cpu/1",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_cpu/2",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_cpu/3",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_delay/1",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_delay/2",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_delay/3",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_disk/1",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_disk/2",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_disk/3",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_loss/1",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_loss/2",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_loss/3",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_mem/1",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_mem/2",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_mem/3",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_socket/1",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_socket/2",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "payment_socket/3",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_cpu/1",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_cpu/2",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_cpu/3",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_delay/1",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_delay/2",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_delay/3",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_disk/1",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_disk/2",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_disk/3",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_loss/1",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_loss/2",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_loss/3",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_mem/1",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_mem/2",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_mem/3",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_socket/1",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_socket/2",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "10",
+    "case_id": "user_socket/3",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_cpu/1",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_cpu/2",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_cpu/3",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_delay/1",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_delay/2",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_delay/3",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_disk/1",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_disk/2",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_disk/3",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_loss/1",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_loss/2",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_loss/3",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_mem/1",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_mem/2",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_mem/3",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_socket/1",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_socket/2",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "carts_socket/3",
+    "root_service": "carts"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_cpu/1",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_cpu/2",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_cpu/3",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_delay/1",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_delay/2",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_delay/3",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_disk/1",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_disk/2",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_disk/3",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_loss/1",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_loss/2",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_loss/3",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_mem/1",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_mem/2",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_mem/3",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_socket/1",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_socket/2",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "catalogue_socket/3",
+    "root_service": "catalogue"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_cpu/1",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_cpu/2",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_cpu/3",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_delay/1",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_delay/2",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_delay/3",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_disk/1",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_disk/2",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_disk/3",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_loss/1",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_loss/2",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_loss/3",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_mem/1",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_mem/2",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_mem/3",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_socket/1",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_socket/2",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "orders_socket/3",
+    "root_service": "orders"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_cpu/1",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_cpu/2",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_cpu/3",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_delay/1",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_delay/2",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_delay/3",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_disk/1",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_disk/2",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_disk/3",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_loss/1",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_loss/2",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_loss/3",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_mem/1",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_mem/2",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_mem/3",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_socket/1",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_socket/2",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "payment_socket/3",
+    "root_service": "payment"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_cpu/1",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_cpu/2",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_cpu/3",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_delay/1",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_delay/2",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_delay/3",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_disk/1",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_disk/2",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_disk/3",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_loss/1",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_loss/2",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_loss/3",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_mem/1",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_mem/2",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_mem/3",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_socket/1",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_socket/2",
+    "root_service": "user"
+  },
+  {
+    "system": "SockShop",
+    "window_minutes": "5",
+    "case_id": "user_socket/3",
+    "root_service": "user"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_cpu/1",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_cpu/2",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_cpu/3",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_delay/1",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_delay/2",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_delay/3",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_disk/1",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_disk/2",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_disk/3",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_loss/1",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_loss/2",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_loss/3",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_mem/1",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_mem/2",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_mem/3",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_socket/1",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_socket/2",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-auth-service_socket/3",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_cpu/1",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_cpu/2",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_cpu/3",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_delay/1",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_delay/2",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_delay/3",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_disk/1",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_disk/2",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_disk/3",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_loss/1",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_loss/2",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_loss/3",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_mem/1",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_mem/2",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_mem/3",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_socket/1",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_socket/2",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-order-service_socket/3",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_cpu/1",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_cpu/2",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_cpu/3",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_delay/1",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_delay/2",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_delay/3",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_disk/1",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_disk/2",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_disk/3",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_loss/1",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_loss/2",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_loss/3",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_mem/1",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_mem/2",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_mem/3",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_socket/1",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_socket/2",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-route-service_socket/3",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_cpu/1",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_cpu/2",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_cpu/3",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_delay/1",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_delay/2",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_delay/3",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_disk/1",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_disk/2",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_disk/3",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_loss/1",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_loss/2",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_loss/3",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_mem/1",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_mem/2",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_mem/3",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_socket/1",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_socket/2",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-train-service_socket/3",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_cpu/1",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_cpu/2",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_cpu/3",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_delay/1",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_delay/2",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_delay/3",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_disk/1",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_disk/2",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_disk/3",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_loss/1",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_loss/2",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_loss/3",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_mem/1",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_mem/2",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_mem/3",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_socket/1",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_socket/2",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "10",
+    "case_id": "ts-travel-service_socket/3",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_cpu/1",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_cpu/2",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_cpu/3",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_delay/1",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_delay/2",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_delay/3",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_disk/1",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_disk/2",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_disk/3",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_loss/1",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_loss/2",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_loss/3",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_mem/1",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_mem/2",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_mem/3",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_socket/1",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_socket/2",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-auth-service_socket/3",
+    "root_service": "ts-auth-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_cpu/1",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_cpu/2",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_cpu/3",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_delay/1",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_delay/2",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_delay/3",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_disk/1",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_disk/2",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_disk/3",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_loss/1",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_loss/2",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_loss/3",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_mem/1",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_mem/2",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_mem/3",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_socket/1",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_socket/2",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-order-service_socket/3",
+    "root_service": "ts-order-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_cpu/1",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_cpu/2",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_cpu/3",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_delay/1",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_delay/2",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_delay/3",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_disk/1",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_disk/2",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_disk/3",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_loss/1",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_loss/2",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_loss/3",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_mem/1",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_mem/2",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_mem/3",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_socket/1",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_socket/2",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-route-service_socket/3",
+    "root_service": "ts-route-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_cpu/1",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_cpu/2",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_cpu/3",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_delay/1",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_delay/2",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_delay/3",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_disk/1",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_disk/2",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_disk/3",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_loss/1",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_loss/2",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_loss/3",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_mem/1",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_mem/2",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_mem/3",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_socket/1",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_socket/2",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-train-service_socket/3",
+    "root_service": "ts-train-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_cpu/1",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_cpu/2",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_cpu/3",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_delay/1",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_delay/2",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_delay/3",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_disk/1",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_disk/2",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_disk/3",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_loss/1",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_loss/2",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_loss/3",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_mem/1",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_mem/2",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_mem/3",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_socket/1",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_socket/2",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "TrainTicket",
+    "window_minutes": "5",
+    "case_id": "ts-travel-service_socket/3",
+    "root_service": "ts-travel-service"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_000",
+    "root_service": "adservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_001",
+    "root_service": "adservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_002",
+    "root_service": "adservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_003",
+    "root_service": "adservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_004",
+    "root_service": "adservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_005",
+    "root_service": "adservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_006",
+    "root_service": "adservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_007",
+    "root_service": "adservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_008",
+    "root_service": "adservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_009",
+    "root_service": "cartservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_010",
+    "root_service": "cartservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_011",
+    "root_service": "cartservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_012",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_013",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_014",
+    "root_service": "currencyservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_015",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_016",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_017",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_018",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_019",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_020",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_021",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_022",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_023",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_024",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_025",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_026",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_027",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_028",
+    "root_service": "emailservice"
+  },
+  {
+    "system": "OnlineBoutique-RE3",
+    "window_minutes": "RE3-fixed",
+    "case_id": "case_029",
+    "root_service": "emailservice"
+  }
+]
